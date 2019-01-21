@@ -23,5 +23,7 @@ NodeJS for mining Discord Gift keys.
 A brazilian Cube community
 <hr>
 
-#### Discord:
+##### Discord:
 Salatiel#5274
+##### Email:
+salatielsauer@hotmail.com
