@@ -1,6 +1,6 @@
 # salatielsauer.github.io
 
-## Repositories:
+## My projects:
 [Sauerbraten Contents](https://github.com/SalatielSauer/Sauerbraten-Content)
 Some contents I've been creating for sauerbraten over the years.
 
@@ -18,3 +18,10 @@ An almost functional text encoder based on a customizable password.
 
 [DGKminer](https://gist.github.com/SalatielSauer/a0d9df2cd3b16bb90acf9d06e357a4bf)
 NodeJS for mining Discord Gift keys.
+
+[Cube BR](http://cubebr.com)
+A brazilian Cube community
+<hr>
+
+#### Discord:
+Salatiel#5274
