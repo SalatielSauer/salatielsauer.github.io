@@ -20,7 +20,7 @@ An almost functional text encoder based on a customizable password.
 NodeJS for mining Discord Gift keys.
 
 [Cube BR](http://cubebr.com)
-A brazilian Cube community
+A brazilian Cube community.
 <hr>
 
 ##### Discord:
