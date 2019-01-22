@@ -19,7 +19,7 @@ An almost functional text encoder based on a customizable password.
 [DGKminer](https://gist.github.com/SalatielSauer/a0d9df2cd3b16bb90acf9d06e357a4bf)
 NodeJS for mining Discord Gift keys.
 
-[Cube BR](http://cubebr.com)
+[Cube BR](http://www.cubebr.com/)
 A brazilian Cube community.
 <hr>
 
