@@ -22,6 +22,9 @@ NodeJS for mining Discord Gift keys.
 
 [Cube BR](http://www.cubebr.com/)
 A brazilian Cube community.
+
+[CB-PostEditor](https://salatielsauer.github.io/CB-PostEditor/)
+HTML Editor to "easily" create posts for Cube BR.
 <hr>
 
 ##### Discord:
