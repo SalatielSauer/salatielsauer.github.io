@@ -22,6 +22,9 @@ An experimental look for the SauerTracker.net API, allowing you to watch multipl
 
 [FDN-Jves10-Encoder](https://salatielsauer.github.io/FDN-Jves10-Encoder/)
 A simple text replacer, useful for encoding and decoding a message.
+
+[CTI](https://cetepes-ti.github.io/)
+Online calendar / task manager prototype made for study purposes.
 <hr>
 
 ##### Discord:
