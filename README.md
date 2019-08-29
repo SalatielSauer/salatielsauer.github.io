@@ -19,6 +19,8 @@ HTML Editor to "easily" create posts for Cube BR.
 
 [SauerSpotter](https://salatielsauer.github.io/SauerSpotter/)
 An experimental look for the SauerTracker.net API, allowing you to watch multiple servers at once.
+
+[See more](https://github.com/SalatielSauer?tab=repositories)
 <hr>
 
 ##### Discord:
