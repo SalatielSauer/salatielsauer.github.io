@@ -26,6 +26,9 @@ An experimental tool for writing Sauerbraten .ogz files using JSON.
 [Quadropolis Nodes Mirror](https://quadropolis.github.io/)
 A mirror containing almost all the quadropolis.us community content.
 
+[IMTOB-Creator](https://salatielsauer.github.io/IMTOB-Creator/)
+A tool to create 2D models based on any image for Sauerbraten.
+
 [See more](https://github.com/SalatielSauer?tab=repositories)
 <hr>
 
