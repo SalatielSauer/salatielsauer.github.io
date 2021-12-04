@@ -1,9 +1,7 @@
 # salatielsauer.github.io
 [Github Page](https://github.com/SalatielSauer/)
 
-[Cube BR](http://www.cubebr.com/)
-A brazilian Cube community.
-
+### Cube 2 Sauerbraten
 [IMTOB Creator](https://salatielsauer.github.io/IMTOB-Creator/)
 A tool to create 2D models based on any image for Sauerbraten.
 
@@ -21,6 +19,10 @@ An experimental style for the SauerTracker.net API, allowing you to watch multip
 
 [Sauerbraten Contents](https://github.com/SalatielSauer/Sauerbraten-Content)
 Random content related to Sauerbraten.
+
+[CubeScript Community Content](https://github.com/CubeScript) Unofficial organization with some tools/addons for Sauerbraten, made with its scripting language.
+
+[Tomatenquark](https://github.com/tomatenquark) Fork of Sauerbraten with free assets.
 
 [see more](https://github.com/SalatielSauer?tab=repositories)
 <hr>
